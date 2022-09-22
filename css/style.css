@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  color: white;
+}
+main {
+  width: 100%;
+}
+.container > h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.container {
+  text-align: center;
+}
+input {
+  height: 150px;
+  width: 250px;
+  background-color: black;
+  border: white 5px solid;
+  color: white;
+  font-size: 4em;
+  text-align: center;
+}
+button {
+  display: block;
+  margin: auto;
+  margin-top: 1em;
+  padding: 1em 2em ;
+}
